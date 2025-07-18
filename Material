@@ -1,0 +1,11 @@
+# Initialize Git
+git init
+# Create a file
+echo "# Material" > README.md
+# Add and commit the file
+git add README.md
+git commit -m "Initial commit"
+# Push code to GitHub
+git push -u origin master
+
+
